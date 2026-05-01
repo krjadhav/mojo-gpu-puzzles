@@ -38,6 +38,8 @@ def add_10_shared(
     if global_i < size:
         output[global_i] = shared[local_i] + 10
 
+    # Try again with explanations
+
 
 # ANCHOR_END: add_10_shared
 
